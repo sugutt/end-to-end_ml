@@ -17,3 +17,91 @@
 +defaults/win-64::xz-5.4.6-h8cc25b3_1
 +defaults/win-64::zlib-1.2.13-h8cc25b3_1
 # update specs: ['python==3.10']
+==> 2024-05-17 10:06:22 <==
+# cmd: C:\Users\sugutt\anaconda3\Scripts\conda-script.py install seaborn
+# conda version: 23.11.0
+-defaults/win-64::openssl-1.1.1w-h2bbff1b_0
+-defaults/win-64::python-3.10.0-h96c0403_3
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::python-tzdata-2023.3-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::bottleneck-1.3.7-py310h9128911_0
++defaults/win-64::brotli-1.0.9-h2bbff1b_8
++defaults/win-64::brotli-bin-1.0.9-h2bbff1b_8
++defaults/win-64::contourpy-1.2.0-py310h59b6b97_0
++defaults/win-64::fonttools-4.51.0-py310h2bbff1b_0
++defaults/win-64::freetype-2.12.1-ha860e81_0
++defaults/win-64::intel-openmp-2023.1.0-h59b6b97_46320
++defaults/win-64::jpeg-9e-h2bbff1b_1
++defaults/win-64::kiwisolver-1.4.4-py310hd77b12b_0
++defaults/win-64::lcms2-2.12-h83e58a3_0
++defaults/win-64::lerc-3.0-hd77b12b_0
++defaults/win-64::libbrotlicommon-1.0.9-h2bbff1b_8
++defaults/win-64::libbrotlidec-1.0.9-h2bbff1b_8
++defaults/win-64::libbrotlienc-1.0.9-h2bbff1b_8
++defaults/win-64::libdeflate-1.17-h2bbff1b_1
++defaults/win-64::libpng-1.6.39-h8cc25b3_0
++defaults/win-64::libtiff-4.5.1-hd77b12b_0
++defaults/win-64::libwebp-base-1.3.2-h2bbff1b_0
++defaults/win-64::lz4-c-1.9.4-h2bbff1b_1
++defaults/win-64::matplotlib-base-3.8.4-py310h4ed8f06_0
++defaults/win-64::mkl-2023.1.0-h6b88ed4_46358
++defaults/win-64::mkl-service-2.4.0-py310h2bbff1b_1
++defaults/win-64::mkl_fft-1.3.8-py310h2bbff1b_0
++defaults/win-64::mkl_random-1.2.4-py310h59b6b97_0
++defaults/win-64::numexpr-2.8.7-py310h2cd9be0_0
++defaults/win-64::numpy-1.26.4-py310h055cbcc_0
++defaults/win-64::numpy-base-1.26.4-py310h65a83cf_0
++defaults/win-64::openjpeg-2.4.0-h4fc8c34_0
++defaults/win-64::openssl-3.0.13-h2bbff1b_1
++defaults/win-64::packaging-23.2-py310haa95532_0
++defaults/win-64::pandas-2.2.1-py310h5da7b33_0
++defaults/win-64::pillow-10.3.0-py310h2bbff1b_0
++defaults/win-64::pyparsing-3.0.9-py310haa95532_0
++defaults/win-64::python-3.10.14-he1021f5_1
++defaults/win-64::python-dateutil-2.9.0post0-py310haa95532_0
++defaults/win-64::pytz-2024.1-py310haa95532_0
++defaults/win-64::seaborn-0.12.2-py310haa95532_0
++defaults/win-64::tbb-2021.8.0-h59b6b97_0
++defaults/win-64::unicodedata2-15.1.0-py310h2bbff1b_0
++defaults/win-64::zstd-1.5.5-hd43e919_2
+# update specs: ['seaborn']
+# neutered specs: ['python==3.10.14']
+==> 2024-05-17 11:27:52 <==
+# cmd: C:\Users\sugutt\anaconda3\Scripts\conda-script.py install -p venv ipykernel --update-deps --force-reinstall
+# conda version: 23.11.0
+-defaults/win-64::vc-14.2-h21ff451_1
+-defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/noarch::asttokens-2.0.5-pyhd3eb1b0_0
++defaults/noarch::decorator-5.1.1-pyhd3eb1b0_0
++defaults/noarch::executing-0.8.3-pyhd3eb1b0_0
++defaults/noarch::parso-0.8.3-pyhd3eb1b0_0
++defaults/noarch::prompt_toolkit-3.0.43-hd3eb1b0_0
++defaults/noarch::pure_eval-0.2.2-pyhd3eb1b0_0
++defaults/noarch::stack_data-0.2.0-pyhd3eb1b0_0
++defaults/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
++defaults/win-64::colorama-0.4.6-py310haa95532_0
++defaults/win-64::comm-0.2.1-py310haa95532_0
++defaults/win-64::debugpy-1.6.7-py310hd77b12b_0
++defaults/win-64::exceptiongroup-1.2.0-py310haa95532_0
++defaults/win-64::ipykernel-6.28.0-py310haa95532_0
++defaults/win-64::ipython-8.20.0-py310haa95532_0
++defaults/win-64::jedi-0.18.1-py310haa95532_1
++defaults/win-64::jupyter_client-8.6.0-py310haa95532_0
++defaults/win-64::jupyter_core-5.5.0-py310haa95532_0
++defaults/win-64::libsodium-1.0.18-h62dcd97_0
++defaults/win-64::matplotlib-inline-0.1.6-py310haa95532_0
++defaults/win-64::nest-asyncio-1.6.0-py310haa95532_0
++defaults/win-64::platformdirs-3.10.0-py310haa95532_0
++defaults/win-64::prompt-toolkit-3.0.43-py310haa95532_0
++defaults/win-64::psutil-5.9.0-py310h2bbff1b_0
++defaults/win-64::pygments-2.15.1-py310haa95532_1
++defaults/win-64::pywin32-305-py310h2bbff1b_0
++defaults/win-64::pyzmq-25.1.2-py310hd77b12b_0
++defaults/win-64::tornado-6.3.3-py310h2bbff1b_0
++defaults/win-64::traitlets-5.7.1-py310haa95532_0
++defaults/win-64::vc-14.2-h2eaa2aa_1
++defaults/win-64::vs2015_runtime-14.29.30133-h43f2093_3
++defaults/win-64::zeromq-4.3.5-hd77b12b_0
+# update specs: ['ipykernel']
